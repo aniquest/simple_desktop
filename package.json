@@ -1,0 +1,16 @@
+{
+  "name": "simpledesktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniquest",
+  "license": "ISC",
+  "dependencies": {
+    "electron-store": "^4.0.0",
+    "runtimejs": "^0.2.16"
+  }
+}
